@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamBug"
+             x:Class="XamBug.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <!-- Place new controls here -->
+        <Label Text="The image below wont show on Android because of hyphen in its filename" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Image Source="https://listener.ecp123.com/medication_data/pill/images/68382-0106-01_NLMIMAGE10_32489964.jpg" 
+               VerticalOptions="Center" 
+               HeightRequest="64" />
+    </StackLayout>
+</ContentPage>

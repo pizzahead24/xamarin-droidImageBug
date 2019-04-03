@@ -1,0 +1,12 @@
+C:\src\Xambug2\XamBug\XamBug\XamBug\bin\Debug\netstandard2.0\XamBug.deps.json
+C:\src\Xambug2\XamBug\XamBug\XamBug\bin\Debug\netstandard2.0\XamBug.dll
+C:\src\Xambug2\XamBug\XamBug\XamBug\bin\Debug\netstandard2.0\XamBug.pdb
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.csprojAssemblyReference.cache
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.csproj.CoreCompileInputs.cache
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.AssemblyInfoInputs.cache
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.AssemblyInfo.cs
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamlC.stamp
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.dll
+C:\src\Xambug2\XamBug\XamBug\XamBug\obj\Debug\netstandard2.0\XamBug.pdb

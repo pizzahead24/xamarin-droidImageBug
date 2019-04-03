@@ -1,0 +1,1 @@
+C:\src\Xambug2\XamBug\XamBug\XamBug.UWP\XamBug.UWP.csproj;x86
